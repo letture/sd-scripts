@@ -1,6 +1,6 @@
 #! /bin/bash
 
-model_dir="/root/autodl-tmp/models"
+model_dir="/root/zscloud-tmp/models"
 cg_repo="stable-diffusion-xl-1.0"
 
 echo "下载 SDXL base、refiner、VAE 和 LoRA 模型"

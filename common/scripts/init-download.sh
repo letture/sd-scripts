@@ -1,6 +1,6 @@
 #! /bin/bash
 
-model_dir="/root/autodl-tmp/models"
+model_dir="/root/zscloud-tmp/models"
 
 sd_webui_dir="$HOME/stable-diffusion-webui"
 comfyui_dir="$HOME/ComfyUI"

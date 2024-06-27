@@ -10,7 +10,7 @@ install_dir="/root"
 #clone_dir="stable-diffusion-webui"
 
 # Commandline arguments for webui.py, for example: export COMMANDLINE_ARGS="--medvram --opt-split-attention"
-export COMMANDLINE_ARGS="--port 6006 --enable-insecure-extension-access --api --xformers --opt-sdp-attention --no-half-vae --ckpt-dir /root/autodl-tmp/models/ckpt --embeddings-dir /root/autodl-tmp/models/embeddings --lora-dir /root/autodl-tmp/models/lora --vae-dir /root/autodl-tmp/models/vae --controlnet-dir /root/autodl-tmp/models/controlnet --lyco-dir /root/autodl-tmp/models/lycoris --skip-torch-cuda-test --skip-version-check --skip-python-version-check"
+export COMMANDLINE_ARGS="--port 6006 --enable-insecure-extension-access --api --xformers --opt-sdp-attention --no-half-vae --ckpt-dir /root/zscloud-tmp/models/ckpt --embeddings-dir /root/zscloud-tmp/models/embeddings --lora-dir /root/zscloud-tmp/models/lora --vae-dir /root/zscloud-tmp/models/vae --controlnet-dir /root/zscloud-tmp/models/controlnet --lyco-dir /root/zscloud-tmp/models/lycoris --skip-torch-cuda-test --skip-version-check --skip-python-version-check"
 
 # python3 executable
 #python_cmd="python3"

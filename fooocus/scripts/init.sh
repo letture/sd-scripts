@@ -2,7 +2,7 @@
 
 echo "初始化一下，请稍等一下……"
 
-target_model_dir="/root/autodl-tmp/models"
+target_model_dir="/root/zscloud-tmp/models"
 
 mkdir -p $target_model_dir
 cd $target_model_dir

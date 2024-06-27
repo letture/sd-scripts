@@ -1,7 +1,7 @@
 #Rename this to extra_model_paths.yaml and ComfyUI will load it
 
 tzwm:
-  base_path: /root/autodl-tmp/models
+  base_path: /root/zscloud-tmp/models
   checkpoints: checkpoint
   configs: checkpoint
   vae: vae
@@ -18,7 +18,7 @@ tzwm:
   clip_vision: clip_vision
 
 fs:
-  base_path: /root/autodl-fs/models
+  base_path: /root/zscloud-fs/models
   checkpoints: checkpoint
   configs: checkpoint
   vae: vae

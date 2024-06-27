@@ -1,6 +1,6 @@
 #! /bin/bash
 
-source_dir="/root/autodl-tmp/models"
+source_dir="/root/zscloud-tmp/models"
 target_dir="/root/Fooocus/models"
 
 rm $target_dir/checkpoints
